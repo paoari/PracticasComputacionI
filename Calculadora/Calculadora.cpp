@@ -15,8 +15,7 @@ int main() {
 
     char op{1};
     float num1{0}, num2{0};
-    float div;
-    double result;
+    float result;
 
 
     //Vamos a escribir el comando para que el usuario indique las operaciones a realizar.
