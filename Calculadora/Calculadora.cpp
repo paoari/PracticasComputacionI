@@ -52,7 +52,7 @@ int main() {
     }
 
     cout << "Resultado: " <<endl;
-    cout << num1 << op << num2 << "=" << result <<endl;
+    cout << num1 << " " << op  << " " << num2 << "=" << result <<endl;
 
     return 0;
 }
