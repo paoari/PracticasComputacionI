@@ -1,3 +1,0 @@
-C:/Users/Paola/CLionProjects/GaussJordan/cmake-build-debug/CMakeFiles/GaussJordan.dir
-C:/Users/Paola/CLionProjects/GaussJordan/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Paola/CLionProjects/GaussJordan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
