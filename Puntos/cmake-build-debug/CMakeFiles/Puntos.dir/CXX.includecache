@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Paola/CLionProjects/Puntos/Punto.cpp
+iostream
+-
+array
+-
+Punto.h
+C:/Users/Paola/CLionProjects/Puntos/Punto.h
+math.h
+-
+
+C:/Users/Paola/CLionProjects/Puntos/Punto.h
+

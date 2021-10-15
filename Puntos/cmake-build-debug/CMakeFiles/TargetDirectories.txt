@@ -1,0 +1,3 @@
+C:/Users/Paola/CLionProjects/Puntos/cmake-build-debug/CMakeFiles/Puntos.dir
+C:/Users/Paola/CLionProjects/Puntos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paola/CLionProjects/Puntos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
